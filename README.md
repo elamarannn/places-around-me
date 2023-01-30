@@ -114,4 +114,6 @@ VR MALL</title>
 ![OUTPUT](./ex04out5.png)
 ![OUTPUT](./ex04out6.png)    
 ## Result:
-Write your result
+Hence a website has been developed to display details about the places around my house.
+
+
