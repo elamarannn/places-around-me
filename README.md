@@ -17,7 +17,7 @@ Next start the server from the projects main directory using python3 manage.py r
 
 ## Code:
 ```
-File: index.html
+##File: index.html
 <html>
     <head>
         <title>PLACES AROUND ME</title>
