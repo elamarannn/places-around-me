@@ -107,7 +107,11 @@ VR MALL</title>
 ```
     
 ## Output:
-Include your output screenshot here
-
+![OUTPUT](./ex04out1.png)
+![OUTPUT](./ex04out2.png)    
+![OUTPUT](./ex04out3.png)
+![OUTPUT](./ex04out4.png)
+![OUTPUT](./ex04out5.png)
+![OUTPUT](./ex04out6.png)    
 ## Result:
 Write your result
