@@ -16,7 +16,7 @@ Head to the views.py in your app folder and create required functions to render 
 Next start the server from the projects main directory using python3 manage.py runserver 0:<portnumber>. Now the pages can be accessed from all the routed addresses in urls.py .
 
 ## Code:
-##File: index.html
+File: index.html
 ```
 <html>
     <head>
@@ -35,7 +35,77 @@ Next start the server from the projects main directory using python3 manage.py r
 </map>
 </body>
 </html>
-
+```    
+File: bustand.html
+```
+   <html>
+<head>
+<title>
+KOYAMBEDU BUS STAND
+</title>
+</head>
+<body>
+     <h1><center>kOYAMBEDU BUS STAND</center></h1>
+    <img src = "BUSTANDff.webp" width ="100%" height="100%">
+</body>
+</html>
+```
+File: market.html
+```
+    <html>
+<head>
+<title>
+KOYAMBEDU MARKET
+</title>
+</head>
+<body>
+     <h1><center>KOYAMBEDU MARKET</center></h1>
+    <img src = "market.jpg" width ="100%" height="100%">
+</body>
+</html>
+```
+File: rohinitheatre.html
+```
+   <html>
+<head>
+<title>
+ROHINI SILVER SCREEN THEATRE
+</title>
+</head>
+<body>
+     <h1><center>ROHINI SILVER SCREEN THEATRE</center></h1>
+    <img src = "rohini.jpg" width ="100%" height="100%">
+</body>
+</html>
+```
+File: skywalk.html
+```
+    <html>
+<head>
+<title>
+SKY WALK
+</title>
+</head>
+<body>
+     <h1><center>SKY WALK</center></h1>
+    <img src = "ampa.webp" width ="100%" height="100%">
+</body>
+</html>
+```
+File: vrmall.html
+```
+    <html>
+<head>
+<title>
+VR MALL</title>
+</head>
+<body>
+    <h1><center>VR MALL</center><h1>
+    <img src = "vr-chennai-1-1594373027.jpg" width ="100%" height="100%">
+</body>
+</html>
+```
+    
 ## Output:
 Include your output screenshot here
 
