@@ -16,6 +16,7 @@ Head to the views.py in your app folder and create required functions to render 
 Next start the server from the projects main directory using python3 manage.py runserver 0:<portnumber>. Now the pages can be accessed from all the routed addresses in urls.py .
 
 ## Code:
+```
 File: index.html
 <html>
     <head>
